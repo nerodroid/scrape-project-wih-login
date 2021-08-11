@@ -1,0 +1,322 @@
+INT101S - Active local units, by activity of national economy at level of CANE Rev.2 division, size classes of number of employees, macroregions, development regions and counties
+INT101T - Active local units, by activity of national economy at level of CANE Rev.2 group, size classes of number of employees, macroregions, development regions and counties
+INT101U - Active local units, by activity of national economy at level of CANE Rev.2 classes, size classes of number of employees, macroregions, development regions and counties
+INT101V - Active enterprises, by activity of national economy at level of CANE Rev.2 group and size classes based on number of employees
+INT101W - Active enterprises, by activity of national economy at level of CANE Rev.2 classes and size classes based on number of employees
+INT101X - Enterprises with financial, banking and isurance activity CAEN Rev.2, by ownership
+INT101Y - Private enterpreneurs, by type of enterpreneurs, macroregions, development regions and counties
+INT102C - Staff of the active local units, by activity of national economy at level of CANE Rev.1 section, by size class and by number of employees, macroregions and development regions and counties
+INT102D - Staff of the active local units, by activity of national economy at level of CANE Rev.2 section, by size class and by number of persons employed, macroregions, development regions and counties
+INT104B - Turnover from the active local units, by activity types CANE Rev.1, size class-enterprises with main activity industry, construction, trade and market services-number of employees and by type of ownership, current prices
+INT104C - Turnover from the active local units, by activity of national economy at level of CANE Rev.1 sections, by size class and by number of employees, macroregions, development regions and counties, current prices
+INT104D - Turnover from the active local units, by activity of national economy at level of CANE Rev.2 sections, by size class and by number of persons employed, macroregions, development regions and counties, current prices
+INT104E - Turnover from the active local units, by activity types CANE Rev.2, size class-enterprises with main activity industry, construction, trade and market services - by number of persons employed and by type of ownership, current prices
+INT105A - Gross investments for tangible goods from the active local units, by activity types CANE Rev.1, size class-enterprises with main activity industry, construction, trade and market services - by number of employees and type of ownership, current prices
+INT105B - Gross investments for tangible goods from the active local units, by activity  of national economy at level of CANE Rev.1 section, by size class and by the number of employees, macroregions, development regions
+and counties
+INT105C - Net investments from the active local units, by activity of national economy at level of CANE Rev.1 section, by size class and by number of employees, macroregions, development regions and counties
+INT105D - Gross investments for tangible goods from the active local units, by activity of national economy at level of CANE Rev.2 section, by size class and by the number of persons employed, macroregions, development regions and counties
+INT105E - Net investments from the active local units, by activity of national economy at level of CANE Rev.2 section, by size class and by number of persons employed, macroregions, development regions and counties
+INT105F - Gross investments for tangible goods from the active local units, by activity types CANE Rev.2, size class-enterprises with main activity industry, construction, trade and market services - by number of persons employed and type of ownership, current prices
+INT106A - Gross exports, by activity types CANE Rev.1, size class-enterprises with main activity industry, construction, trade and market services - by number of employees and type of ownership, current prices
+INT106B - Gross exports, by activity types CANE Rev.2, size class-enterprises with main activity industry, construction, trade and market services - by number of persons employed and type of ownership, current prices
+INT107A - Gross value added for the factors cost, by activity types CANE Rev.1, size class - enterprises with main activity industry, construction, trade and market services - by number of employees and type of ownership, current prices
+INT107B - Gross value added for the factors cost, by activity types CANE Rev.2, size class - enterprises with main activity industry, construction, trade and market services - by number of persons employed and type of ownership, current prices
+INT108A - Gross result of exercise, by activity types CANE Rev.1, size class-enterprises with main activity industry, construction, trade and market services - by number of employees and type of ownership, current prices
+INT108B - Gross result of exercise, by activity types CANE Rev.2, size class-enterprises with main activity industry, construction, trade and market services - by number of persons employed and type of ownership, current prices
+INT109A - Main economic and financial indicators for enterprises with main activity industry, construction, trade and market services, by CANE Rev.1 activity and size class
+INT109B - Main economic and financial indicators for enterprises with main activity industry, construction, trade and market services, by CANE Rev.1 activity and type of ownership
+INT109C - Main economic and financial indicators for enterprises with main activity industry, construction, trade and market services, by CANE Rev.2 activity and size class
+INT110A - Active enterprises, with breakdown by activity of national economy at CANE Rev.2 level and by legal form
+INT110B - Active enterprises, with breakdown by activity of national economy at CANE Rev.2 level and by size class
+INT111A - Newly created enterprises, with breakdown by activity of national economy at CANE Rev.2 level and by legal form
+INT111B - Newly created enterprises, with breakdown by activity of national economy at CANE Rev.2 level and by size class
+INT111C - Newly created active enterprises, creation rate, by development regions and GDP per capita
+INT111D - Distribution of newly created active enterprises, by type of unit and development regions
+INT111E - Average employement of newly created active enterprises, by type of unit and development regions
+INT111F - Distribution of newly created active enterprises, by method of creation and development region
+INT111G - Distribution of newly created active enterprises, by size class and development regions
+INT111H - Share of the number of employees, by enterprise size class and development regions
+INT111I - Share of the number of employees, by type of employment and development regions
+INT111J - Distributin of newly created active enterprises, by number of local units and development regions
+INT111K - Distribution of newly created active enterprises, by headquarters of activity and development regions
+INT111L - Distribution of newly created active enterprises, by urban/ rural area and development regions
+INT111M - Distribution of newly created active enterprises, by type of region
+INT111N - Distribution of newly created active enterprises, by sector of activity and development regions
+INT111O - Distribution of newly created active enterprises, by number of activities and development regions
+INT111P - Share of labour fource of newly active created enerprises with foreign capital participation, by development regions
+INT111Q - Distribution of newly created active enterprises, by levels of difficulty in obtaining trade contracts and development regions
+INT111R - Distribution of newly created active enterprises with supply difficulties, by type of difficulty and development regions
+INT111S - Distribution of newly created active enterprises with demand difficulties, by type of difficulty and development regions
+INT111T - Distribution of newly created active enterprises, by age of founder/manager and development regions
+INT111U - Distribution of newly created active enterprises, by sex of the founder/manager and development regions
+INT111V - Distribution of newly created active enterprises, by educational background of founder/manager and development regions
+INT111W - Distribution of newly created active enterprises, by previous socio-professional category of the founder/manager and development regions
+INT111X - Share of newly created active enterprises having invested during first year of activity, by development regions
+INT111Y - Status of  newly created active enterprises after first year from creation by development regions
+INT112A - Newly born enterprises having survived, with breakdown by activity of national economy at CANE Rev.2 level and by size class
+INT113A - Dead enterprises with breakdown, by activity of national economy at CANE Rev.2 level and by legal form
+INT113B - Dead enterprises with breakdown, by activity of national economy at CANE Rev.2 level and by legal form
+RSI101A - Active enterprises, average number of employees and turnover by activity of national economy at level of CANE Rev.2 classes and size classes based on number of employees
+RSI101B - Public administration intitutions and average number of employees, by activity of national economy at level of CANE Rev.2 classes and size classes based on number of employees
+RSI101C - Private administration organisations and average number of employees, by activity of national economy at level of CANE Rev.2 classes and size classes based on number of employees
+RSI101D - Average number of employees by sectors of activity according to the Law HG.1260/2011 on the Law No 62/2011
+TRN139A - Length of public roads by type of road, type of road surface, macroregions, development regions and counties
+TRN142A - Railways network length under operation, by type of railways
+TRN143A - Railways network length under operation, by type of railways, macroregions, development regions and counties
+TRN144A - Length of inland waterways
+TRN145A - Lenghts of pipelines, by type of pipeline
+TRN135A - Passengers transport in intercity and international transport, by mode of transport
+TRN136A - Passengers transport performance in intercity and international transport, by mode of transport
+TRN137A - Goods transport, by mode of transport
+TRN137B - Goods transport, by groups of goods NST/R and mode of transport
+TRN137C - Goods transport, by types of goods NST 2007 and mode of transport
+TRN137D - Transported goods by destination and type of road transport
+TRN137E - Transported goods by type of vehicles, transport capacity and type of road transport
+TRN137F - Transported goods  by category of dangerous goods and type of road transport
+TRN138A - Goods transport performance, by mode of transport
+TRN138B - Goods transport performance by destination and type of road transport
+TRN138C - Goods transport performance by type of vehicles, transport capacity and type of road transport
+TRN138D - Goods transport performance by category of dangerous goods and type of road transport
+TRN140A - Vehicle - kilometers by destination and type of road transport
+TRN102A - New registrations of road vehicles for passenger transport, by macroregions, development regions and counties
+TRN102B - New registrations of vehicles for transport of goods, by macroregions, development regions and counties
+TRN103B - Registered road vehicles (end of the year), by category of road  vehicle, by type of ownership, by macroregions, development regions and counties
+TRN103C - Registered road vehicles (end of the year), by groups of age
+TRN103D - Registered road vehicles (end of the year), by type of fuel
+TRN104A - Road traffic injury accidents, by  the nature and the way they happend
+TRN104B - Road traffic injury accidents, by the moment they happend
+TRN104C - Road traffic injury accidents, by the roadway status
+TRN104D - Road traffic injury accidents, by  the conditions they happend
+TRN104E - Road  traffic injury accidents, by the place that they happened
+TRN104F - Road traffic injury accidents, by macroregions, development regions and counties
+TRN105A - Casualties in road traffic injury accidents by the age and the seriousness casualties
+TRN105B - Casualties in road traffic injury accidents by macroregions, development regions and counties
+TRN106A - Locomotives in inventory (end of the year), by types of locomotives
+TRN112A - Waggons in inventory (end of the year), by types of railway transport
+TRN113A - Capacity of waggons in inventory (end of the year), by types of railway transport
+TRN120A - Inland waterways ships, by types of ships registered at the end of the year
+TRN121A - Capacity of inland waterways ships for transport of goods, by types of ships at the end of the year
+TRN125A - Seagoing vessels registered at the end of the year
+TRN126A - Capacity of seagoing vessels for transport of freights and passengers, by types of vessels at the end of the year
+TRN130A - Transport of goods at ports, by categories of port operations, transport modes and groups of goods NST/R
+TRN130B - Transport of goods at ports, by categories of port operations, transport modes and types of goods NST 2007
+TRN132A - Aircraft registered (with navigability certificate), by types of aircraft
+TRN133A - Airports traffic
+PTT101A - Postal units, by types
+PTT101B - Postal units, by macroregions, development regions and counties
+PTT102A - Volume of postal activities, by types of postal services, by macroregions, development regions and counties
+PTT102B - Radio subscriptions by total and urban area, macroregions, development regions and counties
+PTT103A - Telephony-telegraphy units for public use, by macroregions, development regions and counties
+PTT104A - Volume of telephony activity, by types of activity, macroregions, development regions and counties
+PTT104B - Activities of telephony by types of telephonical networks
+PTT105A - Capacity of  equipped local phone centrals, by types, macroregions, development regions and counties
+PTT106A - Telephone posts, by macroregions, development regions and counties
+PTT107A - Capacity of local phone centrals in use, by types, macroregions, development regions and counties
+PTT108A - Equipped capacity of telegraph centrals, by macroregions, development regions and counties
+PTT109A - Radio stations, by ownership, macroregions, development regions and counties
+PTT110A - Television stations, by ownership, macroregions, development regions and counties
+PTT111A - Radio and television translators, by types, ownership, macroregions, development regions and counties
+PTT112A - Television subscriptions, by macroregions, development regions and counties
+COM101A - Turnover in the retail trade for the enterprises having trade as main activity, by activity CANE Rev.1 and type of ownership
+COM101B - Turnover in the retail trade for the enterprises having trade as main activity, by activity CANE Rev.2 and type of ownership
+COM102A - Goods sales indices for retail trade-excluding sale, maintenance and repair of motor vehicles, motorcycles and retail of fuels-by group of goods
+COM102B - Indices of retail trade by group of goods CANE Rev.2 - year of reference = previous year
+COM103A - Turnover of wholesale for the enterprises having trade as main activity, by activity CANE Rev.1 and type of ownership
+COM103F - Turnover of wholesale for the enterprises having trade as main activity, by activity CANE Rev.2 and type of ownership
+COM103G - Turnover value indices in wholesale, unadjusted series - base year 2010
+COM103H - Turnover value indices in wholesale, working day and seasonally adjusted series - base year 2010
+COM103I - Turnover value indices in wholesale, working day adjusted series - base year 2010
+COM104A - Value of sales from the retail trade; sales and maintenance of vehicules CANE Rev.1, by type of ownership
+COM104B - Value of sales from the retail trade; sales and maintenance of vehicules, CANE Rev.2, by type of ownership
+COM106C - Indices of wholesale and retail trade sale, maintenance and repair of motor vehicles, motorcycles and retail of fuels CANE Rev.2 - year of reference = previous year
+COM107G - Turnover volume indices in retail trade, unadjusted series -base year 2010
+COM107H - Turnover volume indices in retail trade, working day and seasonally adjusted series - base year 2010
+COM107I - Turnover volume indices in retail trade, working day adjusted series - base year 2010
+COM107J - Turnover value indices in retail trade, unadjusted series - base year 2010
+COM107K - Turnover value indices in retail trade, working day and seasonally adjusted series - base year 2010
+COM107L - Turnover value indices in retail trade, working day adjusted series - base year 2010
+COM108G - Turnover volume indices in wholesale and retail, maintenance and repair of motor vehicles and motorcycles, unadjusted series - base year 2010
+COM108H - Turnover volume indices in wholesale and retail, maintenance and repair of motor vehicles and motorcycles, working day and seasonally adjusted series - base year 2010
+COM108I - Turnover volume indices in wholesale and retail, maintenance and repair of motor vehicles and motorcycles, working day adjusted series - base year 2010
+COM108J - Turnover value indices in wholesale and retail, maintenance and repair of motor vehicles and motorcycles, unadjusted series - base year 2010
+COM108K - Turnover value indices in wholesale and retail, maintenance and repair of motor vehicles and motorcycles, working day and seasonally adjusted series - base year 2010
+COM108L - Turnover value indices in wholesale and retail, maintenance and repair of motor vehicles and motorcycles, working day adjusted series - base year 2010
+EXP101A - Export value (FOB) - Total
+EXP101B - Export value (FOB) on partner countries
+EXP101C - Export value (FOB) on sections according to SITC Rev.3
+EXP101D - Export value (FOB) on EU Member States and by section acording to the combined nomenclature (CN)
+EXP101E - Export value (FOB) according to CN sections and chapters, total, of which European Union
+EXP101F - Export value (FOB) on CN group of goods
+EXP101G - Export value (FOB) on sections according to SITC Rev.4
+EXP101I - Exports (FOB) by sections according to Standard International Trade Classification (SITC) Rev.4, by Total, Intra-EU, Extra-EU  - monthly data
+EXP101J - Exports (FOB) by counties and by sections/ chapters of the Combined Nomenclature (CN) - monthly data
+EXP101M - Exports (FOB), by main mode of transport
+EXP101N - The share of the total exports of the first exporting companies, according to their export values recorded during the reference period (semester or full year)
+EXP101O - Exporting companies by size class according to number of employees
+EXP101P - Exporting companies by form of ownership
+EXP101R - Exporting companies by type of capital
+EXP101S - Exporting companies by main activity sectors - NACE Rev.2
+EXP102A - Import value (CIF) - Total
+EXP102B - Import value (CIF) on sections according to SITC Rev.3
+EXP102C - Import value (CIF) on EU Member States and CN sections
+EXP102D - Import value (CIF) according to CN sections and chapters, total, of which European Union
+EXP102E - Import value (CIF) on countries of origin
+EXP102F - Import value (CIF) on CN group of goods
+EXP102G - Import value (CIF)  by partner countries (country of dispatch for Intra-EU arrivals and  country of origin for Extra-EU  imports)
+EXP102H - Import value (CIF) on sections according to SITC Rev.4
+EXP102I - Imports (CIF) by sections according to Standard International Trade Classification (SITC) Rev.4, by Total, Intra-EU, Extra-EU  - monthly data
+EXP102J - Imports (CIF) by counties and by sections/chapters of the Combined Nomenclature (CN) - monthly data
+EXP102M - Imports (CIF) by main mode of transport
+EXP102N - The share of the total imports of the first importing companies, according to their import values recorded during the reference period (semester or full year).
+EXP102O - Importing companies by size class according to number of employees
+EXP102P - Importing companies by form of ownership
+EXP102R - Importing companies by type of capital
+EXP102S - Importing companies by main activity sectors - NACE Rev.2
+EXP103A - The overall trade balance FOB / FOB
+EXP103B - The overall trade balance FOB/CIF
+EXP104A - Value indices of external trade (previous year = 100)
+EXP105A - Unit value indices for export and imports
+TUR101A - Establishments of touristic reception with functions of tourists accommodation by type of establishment and type of ownership
+TUR101B - Establishments of touristic reception with functions of tourists accommodation by type of establishment, category of comfort and touristic destinations
+TUR101C - Establishments of touristic reception with functions of tourists accommodation by type of establishment , counties and localities
+TUR101D - Establishments of touristic reception with functions of tourists accommodation by type of establishment , macroregions, development regions and counties
+TUR102A - Existing touristic accommodation capacity by type of establishment and type of ownership
+TUR102B - Existing touristic accommodation capacity by type of establishment, category of comfort and touristic destinations
+TUR102C - Existing touristic accommodation capacity by type of establishment, counties and localities
+TUR102D - Existing touristic accommodation capacity by type of establishment, macroregions, development regions and counties
+TUR103A - Touristic accommodation capacity in function  by type of establishment and type of ownership
+TUR103B - Touristic accommodation capacity in function  by type of establishment, macroregions, development regions and counties
+TUR103C - Touristic accommodation capacity in function  by type of establishment, comfort category and touristic destination
+TUR103D - Touristic accommodation capacity in function by type of establishment, counties and localities
+TUR103E - Touristic accommodation monthly capacity in function by type of establishment, macroregions, development regions and counties
+TUR103F - Touristic accommodation mounthly capacity in function by type of establishment, counties and localities
+TUR104A - Arrivals of tourists accommodated in the structure of tourists reception by type of accommodation and type of ownership
+TUR104B - Arrivals of tourists accommodated in the structure of tourists reception by type of accommodation, type of tourists,macroregions, development regions and counties
+TUR104C - Arrivals of tourists accommodated in the structure of tourists reception by tourist destinations and tourists type
+TUR104D - Arrivals of tourists accommodated in the structure of tourists reception by type of establishment, category  of comfort and tourist type
+TUR104E - Tourists accommodated in the structure of tourists reception by counties and localities
+TUR104F - Arrivals of tourists accommodated in the structure of tourists reception by type of accommodation, type of tourists,macroregions, development regions and counties, mounthly
+TUR104G - Arrivals of tourists accommodated in the structure of tourists reception by type of establishment, category of comfort and tourist type, monthly
+TUR104H -  Arrivals of tourists accommodated in the structure of tourists reception by type of establishment, category of comfort and tourist type, monthly
+TUR105A - Staying overnight in the establishments of touristic reception by type of establishment and type of ownership
+TUR105B - Staying overnight in the establishments of touristic reception by type of establishment, category of comfort and type of tourists
+TUR105C - Staying overnight in the establishments of touristic reception by  touristic destinations and type of tourists
+TUR105D - Staying overnight in the establishments of touristic reception by  type of tourists, macroregions, development regions and counties
+TUR105E - Staying overnight in the establishments of touristic reception by counties and localities
+TUR105F - Staying overnight in the establishments of touristic reception by type of establishment, category of comfort and type of tourists, monthly
+TUR105G - Staying overnight in the establishments of touristic reception by type of tourists, macroregions, development regions and counties, monthly
+TUR105H - Staying overnight in the establishments of touristic reception by counties and localities, monthly
+TUR106A - Index of net using the touristic accommodation capacity in function by type of establishment and type of ownership
+TUR106B - Index of net using the touristic accommodation capacity in function by type of establishment and comfort category
+TUR106C - Index of net using the touristic accommodation capacity in function by type of establishment and comfort category, monthly
+TUR107A - Arrivals of foreign visitors in Romania by means of transport used
+TUR107C - Arrivals of foreign visitors in Romania by  continents and origin countries
+TUR108A - Departures abroad of Romania visitors by means of transport
+TUR109A - Number of tourists taking part in tourist actions organized by travel agencies by activity
+TUR109B - Number of Romanian tourists taking part in internal tourist actions organized by travel agencies, by tourism areas
+TUR109C - Number of Romanian tourists taking part in external tourist actions organized by travel agencie, by destination country
+TUR109D - Tourism organized by travel agencies, by touristic action and touristic area
+PSC101B - Market value of services for population, by services categories CANE Rev.1 and type of ownership
+PSC101C - Market value of services for population, by services categories CAEN Rev.2 and type of ownership
+PSC102A - Market value of services mainly rendered to the enterprices, by services categories CANE Rev.1 and type of ownership
+PSC102B - Market value of services  mainly rendered to the enterprices, by services categories CANE Rev.2 and type of ownership
+PSC103A - Value of transport services, mail and telecommunications, by activity CANE Rev.1 and type of ownership
+PSC104A - Indices of commercial services for population, by activity CANE Rev.1 - year of reference = 1993
+PSC104B - Indices of commercial services for population, by activity CANE Rev.1 - year of reference = previous year
+PSC104C - Indices of commercial services for population, by activity CANE Rev.2 - year of reference = previous year
+PSC107I - Turnover volume indices in market services rendered to the population, unadjusted series - base year 2010
+PSC107J - Turnover volume indices in market services rendered to the population, working day and seasonally adjusted series - base year 2010
+PSC107K - Turnover volume indices in market services rendered to the population, working day adjusted series - base year 2010
+PSC107L - Turnover value indices in market services rendered to the population, unadjusted series - base year 2010
+PSC107M - Turnover value indices in market services rendered to the population, working day and seasonally adjusted series - base year 2010
+PSC107N - Turnover value indices in market services rendered to the population, working day adjusted series - base year 2010
+PSC108D - Turnover value indices in market services rendered to enterprises, unadjusted series - base year 2010
+PSC108E - Turnover value indices in market services rendered to enterprises,  working day and seasonally adjusted series -base year 2010
+PSC108F - Turnover value indices in market services rendered to enterprises,  working day adjusted series -  year 2010
+FIN101A - Execution of the state budget by categories of incomes and expenditures
+FIN101B - Execution of the state budget by categories of incomes and expenditures
+FIN102A - Execution of the local budgets by categories of incomes and expenditures
+FIN102B - Execution of the local budgets by categories of incomes and expenditures, macroregions, development regions and counties
+FIN102C - Execution of the local budgets by categories of incomes and expenditures
+FIN103A - Execution of the state social insurance budget by categories of incomes and expenditures
+FIN103B - Execution of the state social insurance budget by categories of incomes and expenditures
+FIN104A - Balance of payments on components
+FIN105A - Monetary balance sheet of the National Bank of Romania by accounts and transactions
+JUS101A - Judges
+JUS102A - Actions witch entered the court of justice, by categories of actions
+JUS103A - Penal and civil actions witch are to be solved by a judge
+JUS104A - Persons definitively convicted by the courts of justice, by gender
+JUS104B - Minor persons definitively convicted by the courts of justice, by type of penalty
+JUS104C - Persons definitively convicted by the courts of justice, by macroregions, development regions and counties
+JUS104D - Persons definitively convicted by the courts of justice, by category of crime
+JUS104E - Persons definitively convicted by the courts of justice, by type of punishments
+JUS104F - Recidivists definitively convicted by the courts of justice
+JUS104G - Persons definitively convicted by the courts of justice, by type of crime, urban/ rural area
+JUS105A - Persons definitively convicted, in penitentiaries and rehabilitation centres by length of prison sentence
+JUS105B - Persons definitively convicted in penitentiaries
+JUS106A - Persons definitively convicted in  rehabilitation centres
+JUS107A - Criminality rate by macroregions, development regions and counties
+JUS107B - Offence rate by macroregions, development regions and counties
+JUS108A - Civil litigations which entered the Courts of Justice by type of civil litigations
+JUS109A - Offences solved by the police and offences solved by the Prosecutor?s Office through police declined jurisdiction,development regions and counties
+JUS109B - Offences solved by the police and offences solved by the Prosecutor?s Office through police declined jurisdiction by category of offences
+JUS109C - Persons charged investigated by the police, urban/ rural area and category of persons
+PMI101A - Protected areas
+PMI102A - Annual water resources provided according to type of arrangement by water source and basin
+PMI103A - Surface water quality by hydrographic basins and categories of quality
+PMI105A - Environmental protection expenditures, by CANE Rev.2 activities and types of expenditure
+PMI105B - Environmental protection expenditures, by CANE Rev.2 activities and evironmental domains
+PMI106A - Environment protection expenditure by activity sector, expenditure category and producer category
+PMI106B - Environmental protection expenditures, by CANE Rev.1 activities and types of expenditure
+PMI106C - Environmental protection expenditures, by CANE Rev.1 activities and evironmental domains
+PMI109A - Population connected to waste water collecting systems and waste water treatment plants, macroregions, development regions and counties
+PMI109B - Population connected to public water supply, macroregions, development regions and counties
+PMI110A - Wastewater generation by activity sectors
+PMI110B - Wastewater collection and discharge by type of collecting systems
+PMI111A - Number of Wastewater treatment plant stages by type of plants
+PMI111B - Wastewater treatment plant capacity in terms of BOD5
+PMI111C - Daily flow of wastewater treatment plants by type of plants
+PMI111D - Sludge resulted from wastewater treatment plants
+PMI112A - Water abstraction by sources and economic activities
+PMI113A - Wide economy material flow accounts
+PMI114A - Air Pollutant Emissions Accounts
+PMI114B - Air Pollutant Emissions Accounts, by CANE Rev.1 activities
+PMI114C - Air Pollutant Emissions Accounts, by CANE Rev.2 activities
+PMI115B - Environmental Goods and Services Sector (EGSS), by NACE Rev.2 activities and evironmental domains
+PMI116A - Environmental taxes by economic activities NACE Rev.2
+PMI117A - Environmental protection expenditure account by economics characteristics and by environmental domains
+ADM101A - Administrative organisation of Romanian territory, by administrative units category, macroregions, development regions and counties
+GOS102A - Inside town area of municipalities and towns by counties and localities
+GOS102B - Inside town area of municipalities and towns by macroregions, development regions and counties
+GOS103A - Verdure spots area in municipalities and towns by counties and localities
+GOS103B - Verdure spots area in municipalities and towns by macroregions, development regions and counties
+GOS104A - Town street length by counties and localities
+GOS104B - Town street length by macroregions, development regions and counties
+GOS105A - Length of modernized town streets by counties and localities
+GOS105B - Length of modernized town streets by macroregions, development regions and counties
+GOS106A - Total length of network of drinking water by urban/ rural area, macroregions, development regions and counties
+GOS106B - Total length of network of drinking water by counties and localities
+GOS106C - Number of localities with drinking water installation by residence area, macroregions, development regions and counties
+GOS107A - Drinking water installation capacity by counties and localities
+GOS107B - Drinking water installation capacity by macroregions, development regions and counties
+GOS108A - Quantity of drinking water supllied to consumers by counties and localities
+GOS108B - Quantity of drinking water supllied to consumers by macroregions, development regions and counties
+GOS109A - Thermal energy supllied by counties and localities
+GOS109B - Thermal energy supllied by macroregions, development regions and counties
+GOS109C - Number of localities with thermal energy by residence area, macroregions, development regions and counties
+GOS110A - Total simple length of sewerage pipes by counties and localities
+GOS110B - Total simple length of sewerage pipes by macroregions, development regions and counties
+GOS110C - Number of localities with public sewerage installations by residence area, macroregions, development regions and counties
+GOS111A - Stations flow for water purification by counties and localities
+GOS111B - Stations flow for water purification by macroregions, development regions and counties
+GOS111C - Quantities of disposed municipal solid waste by macroregions, development regions and counties
+GOS112B - Registered vehicles for local public transport of passengers by the type of vehicles, counties and localities
+GOS112C - Registered vehicles for local public transport of passengers, by type of vehicles, by macroregions, development regions and counties
+GOS114B - Passengers transported with local public transport by macroregions, development regions and counties
+GOS115B - Length of simple line for local public transport by type of vehicles, by macroregions, development regions and counties
+GOS116A - Total length of distribution pipes of natural gas  by counties and localities
+GOS116B - Total length of distribution pipes of natural gas  by macroregions, development regions and counties
+GOS117A - Number of localities where natural gas is distributed by residence area, macroregions, development regions and counties
+GOS118A - Natural gas distribution by destination, counties and localities
+GOS118B - Natural gas distribution by destinations, macroregions and development region and counties
